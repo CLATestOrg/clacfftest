@@ -1,1 +1,2 @@
 # clacfftest
+test expected status
